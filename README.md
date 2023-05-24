@@ -1,2 +1,5 @@
 # UR5-final-year-project
-All necessary Matlab scripts and related files
+These are the files developed in Junhao TU's Final Year Project, the modelling, simulation and experiment of the UR5 robot.
+
+
+
